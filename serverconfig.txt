@@ -1,0 +1,10 @@
+maxplayers=8
+world=Ereriast.wld
+worldpath=../world/
+port=7777
+password=cornhub
+motd=Fucking tsunik ...
+autocreate=3
+difficulty=0
+worldname=Ereriast
+modpath=../mods/
